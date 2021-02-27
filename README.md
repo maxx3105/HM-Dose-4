@@ -27,7 +27,9 @@ U2                         | CC1101               |   1    |             |
 #### Sonstiges
 
 DC-DC Wandler https://de.aliexpress.com/item/4000938525410.html
+
 CC1101 https://de.aliexpress.com/item/32924239954.html
+
 ~8,3 cm Draht als Antenne
 
 ### Programmieradapter
