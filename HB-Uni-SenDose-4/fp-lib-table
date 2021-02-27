@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name myRadioModules)(type KiCad)(uri C:/Users/marku/OneDrive/Dokumente/HB-Uni-230/HB-Uni-230/libraries/myRadioModules.pretty)(options "")(descr ""))
+  (lib (name myArduinoModules)(type KiCad)(uri C:/Users/marku/OneDrive/Dokumente/HB-Uni-230/HB-Uni-230/libraries/myArduinoModules.pretty)(options "")(descr ""))
+  (lib (name HB-Uni-SenDose-4)(type KiCad)(uri ${KIPRJMOD}/HB-Uni-SenDose-4.pretty)(options "")(descr ""))
+)
