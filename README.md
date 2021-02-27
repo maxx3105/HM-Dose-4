@@ -30,6 +30,8 @@ DC-DC Wandler https://de.aliexpress.com/item/4000938525410.html
 
 CC1101 https://de.aliexpress.com/item/32924239954.html
 
+Dosierpumpen 4 Stk https://de.aliexpress.com/item/32872201122.html
+
 ~8,3 cm Draht als Antenne
 
 ### Programmieradapter
