@@ -22,7 +22,7 @@ J1                         | DC-DC Wandler        |   1    |             |
 U1                         | Arduino MiniPro 3,3V |   1    |             |
 U2                         | CC1101               |   1    |             |
 
-
+Reichelt Liste https://www.reichelt.de/my/1820811
 
 #### Sonstiges
 
