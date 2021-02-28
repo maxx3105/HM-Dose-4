@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name 236-403_334-604)(type Legacy)(uri C:/Users/marku/OneDrive/Dokumente/HB-Uni-230/236-403_334-604/236-403_334-604.lib)(options "")(descr ""))
-  (lib (name myArduinoModules)(type Legacy)(uri C:/Users/marku/OneDrive/Dokumente/HB-Uni-230/HB-Uni-230/library/myArduinoModules.lib)(options "")(descr ""))
-  (lib (name wago-p-250)(type Legacy)(uri C:/Users/marku/OneDrive/Dokumente/HB-Uni-230/HB-Uni-230/library/wago-p-250.lib)(options "")(descr ""))
-)
