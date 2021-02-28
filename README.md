@@ -9,12 +9,10 @@ Dieses Projekt basiert auf der Arbeit von [pa-pa](https://github.com/pa-pa/AskSi
 
 Bauteile                   | Bezeichnung          | Anzahl | Kommentar   | 
 -------------------------- | -------------------- | ------ | ----------- | 
-R1,R3,R5,R7,R9             | 330 Ohm              |   5    |             |
-R2,R4,R6,R8                | 100 Ohm              |   4    |             |
+R1,R3,R5,R7                | 560 Ohm              |   4    |             |
+R9                         | 330 Ohm              |   1    |             |
 D1,D2,D3,D4,D5             | 5mm LED Rot          |   5    |             |
-D6,D7,D8,D9                | 1N4001               |   4    |             |
-Q1,Q2,Q3,Q4                | BC547                |   4    |             |
-K1,K2,K3,K4                | FTR LYCA 05V         |   4    |             |
+U3                         | ULN 2003A            |   1    |             |
 SW1                        | Taster               |   1    |             |
 PS1                        | MeanWell IRM-30-12   |   1    |             |
 X1                         | WAGO 236-403         |   1    |             |
