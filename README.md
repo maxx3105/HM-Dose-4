@@ -9,8 +9,9 @@ Dieses Projekt basiert auf der Arbeit von [pa-pa](https://github.com/pa-pa/AskSi
 
 Bauteile                   | Bezeichnung          | Anzahl | Kommentar   | 
 -------------------------- | -------------------- | ------ | ----------- | 
-R1,R3,R5,R7                | 560 Ohm              |   4    |             |
-R9                         | 330 Ohm              |   1    |             |
+R1,R2,R3,R4                | 560 Ohm              |   4    |             |
+R5                         | 330 Ohm              |   1    |             |
+C1                         | 0,1 µF               |   1    |             |
 D1,D2,D3,D4,D5             | 5mm LED Rot          |   5    |             |
 U3                         | ULN 2003A            |   1    |             |
 SW1                        | Taster               |   1    |             |
