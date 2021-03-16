@@ -1,4 +1,4 @@
-# HB-Uni-SENDose-4
+# HM-Dose-4
 Funk 4-fach Dosierpumpe für die Integration in HomeMatic auf Basis der AskSin++
 
 Dieses Projekt basiert auf der Arbeit von [pa-pa](https://github.com/pa-pa/AskSinPP) ,[Jérôme](https://github.com/jp112sdl/Beispiel_AskSinPP).
@@ -34,8 +34,8 @@ Dosierpumpen 4 Stk https://de.aliexpress.com/item/32872201122.html
 ~8,3 cm Draht als Antenne
 
 ### Programmieradapter
-- 1x FTDI Programmer https://www.az-delivery.de/products/ftdi-adapter-ft232rl
 
+- 1x FTDI Programmer https://www.az-delivery.de/products/ftdi-adapter-ft232rl
 
 # Software
 
@@ -44,7 +44,7 @@ https://www.arduino.cc/en/software
 
 ### Firmware
 
-Sketch https://github.com/jp112sdl/HB-UNI-SenAct-4-4
+Sketch https://github.com/pa-pa/AskSinPP/blob/master/examples/HM-LC-SWX-SM/HM-LC-SWX-SM.ino
 
 # Bauanleitung
 
