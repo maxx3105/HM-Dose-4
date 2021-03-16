@@ -10,7 +10,7 @@ Dieses Projekt basiert auf der Arbeit von [pa-pa](https://github.com/pa-pa/AskSi
 Bauteile                   | Bezeichnung          | Anzahl | Kommentar   | 
 -------------------------- | -------------------- | ------ | ----------- | 
 R1,R2,R3,R4                | 560 Ohm              |   4    |             |
-SR1                        | 1K Ohm               |   1    |             |
+SR1                        | 1K Ohm               |   1    |  [ELV.de](https://de.elv.com/sicherungswiderstand-1k-091814?fs=1418091890)           |
 R5                         | 330 Ohm              |   1    |             |
 C1                         | 0,1 µF               |   1    |             |
 D1,D2,D3,D4,D5             | 5mm LED Rot          |   5    |             |
