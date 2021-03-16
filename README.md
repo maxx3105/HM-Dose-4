@@ -10,6 +10,7 @@ Dieses Projekt basiert auf der Arbeit von [pa-pa](https://github.com/pa-pa/AskSi
 Bauteile                   | Bezeichnung          | Anzahl | Kommentar   | 
 -------------------------- | -------------------- | ------ | ----------- | 
 R1,R2,R3,R4                | 560 Ohm              |   4    |             |
+SR1                        | 1K Ohm               |   1    |             |
 R5                         | 330 Ohm              |   1    |             |
 C1                         | 0,1 µF               |   1    |             |
 D1,D2,D3,D4,D5             | 5mm LED Rot          |   5    |             |
@@ -20,6 +21,7 @@ J1                         | DC-DC Wandler        |   1    |             |
 U1                         | Arduino MiniPro 3,3V |   1    |             |
 U2                         | CC1101               |   1    |             |
 U3                         | ULN 2003A            |   1    |             |
+RV1                        | Varistor             |   1    |             |
 
 Reichelt Liste https://www.reichelt.de/my/1820811
 
